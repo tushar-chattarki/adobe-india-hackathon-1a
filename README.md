@@ -1,4 +1,4 @@
-# adobe-india-hackathon-1a
+# Adobe Hackathon 2025 - Round 2 Challenge 1a
 
 ## Authors
 
